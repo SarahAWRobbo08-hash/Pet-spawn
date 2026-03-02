@@ -969,7 +969,18 @@ task.spawn(function()
         "Many Mackerel",
         "Strawberry Shortcake Bat Dragon",
         "Zombie Buffalo",
-        "Fairy Bat Dragon"
+        "Fairy Bat Dragon",
+        "Giant Panda",
+        "Silverback Gorilla",
+        "Cabbit",
+        "Dragonfruit Fox",
+        "Siamese Cat",
+        "Dango Penguin",
+        "Cupid Dragon",
+        "Rose Dragon",
+        "Strawberry Penguin",
+        "Frost Unicorn",
+        "Unicorn"
     }
     local vu279 = Instance.new("TextButton")
     vu279.Size = UDim2.new(0.6, 0, 0, 25)
