@@ -980,7 +980,9 @@ task.spawn(function()
         "Rose Dragon",
         "Strawberry Penguin",
         "Frost Unicorn",
-        "Unicorn"
+        "Unicorn",
+        "Alley Cat",
+        "Arctic Fox"
     }
     local vu279 = Instance.new("TextButton")
     vu279.Size = UDim2.new(0.6, 0, 0, 25)
